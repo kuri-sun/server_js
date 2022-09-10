@@ -2,7 +2,7 @@
 ## Running in local
 
 ```sh
-$ git clone 
+$ git clone https://github.com/kuri-sun/server_with_js.git
 $ cd server_with_js
 $ npm install
 $ npm start
