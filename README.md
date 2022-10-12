@@ -13,6 +13,7 @@ will be running on port 3000.
 ## Heroku deployment
 
 ```
+$ heroku login
 $ heroku create
 $ git push heroku master
 ```
