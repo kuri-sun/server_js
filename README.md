@@ -3,7 +3,7 @@
 
 ```sh
 $ git clone https://github.com/kuri-sun/server_with_js.git
-$ cd server_with_js
+$ cd server_js
 $ npm install
 $ npm start
 ```
